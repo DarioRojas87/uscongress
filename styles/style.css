@@ -1,0 +1,31 @@
+.logo {
+  width: 100px;
+}
+footer {
+  position: fixed;
+  height: 5vh;
+  bottom: 0;
+  width: 100%;
+}
+
+p {
+  text-indent: 30px;
+}
+html {
+  overflow-y: scroll;
+}
+
+.form-select {
+  width: 7vw;
+}
+
+hr {
+  width: 90%;
+  border-top: 2px solid black;
+}
+
+/* th {
+  background: white;
+  position: sticky;
+  top: 0; 
+} */
